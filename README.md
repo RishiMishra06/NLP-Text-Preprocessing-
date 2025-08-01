@@ -14,6 +14,8 @@ This repository contains all the essential **text preprocessing techniques** use
 -  Removing extra whitespaces
 -  Handling emojis/emoticons
 -  Text normalization.
+-  Remove HTML Tags.
+  
 
 # Real World Applications:-
 
