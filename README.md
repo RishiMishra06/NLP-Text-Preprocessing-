@@ -15,7 +15,7 @@ This repository contains all the essential **text preprocessing techniques** use
 -  Handling emojis/emoticons
 -  Text normalization.
 
-# Use Cases:-
+# Real World Applications:-
 
 - Text Classification
 
